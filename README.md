@@ -53,7 +53,16 @@ b
 ```
 
 ## Output:
-![simple linear regression model for predicting the marks scored](sam.png)
+
+![image](https://github.com/user-attachments/assets/47680b77-d33f-4ec3-8306-a269290ebc89)
+![image](https://github.com/user-attachments/assets/c935d505-583d-4df0-a16d-f5b0154e26c4)
+![image](https://github.com/user-attachments/assets/cdba91e5-f0d0-4fc4-8687-63d5bbd405e8)
+![image](https://github.com/user-attachments/assets/25bd4216-5315-49c2-b719-0d891370156f)
+![image](https://github.com/user-attachments/assets/989041fb-d513-496a-811e-465c260572e8)
+![image](https://github.com/user-attachments/assets/3b4a44e7-5a4a-4f5e-9f57-e306a65148e4)
+![image](https://github.com/user-attachments/assets/8b70b227-13a5-4f43-9998-1761df22cb22)
+![image](https://github.com/user-attachments/assets/95331f46-7174-4eb9-bda9-57321a374cc3)
+![image](https://github.com/user-attachments/assets/5a43d8b0-57c5-44fc-af5d-5c2e38a85a5e)
 
 
 ## Result:
